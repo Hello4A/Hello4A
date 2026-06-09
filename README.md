@@ -1,215 +1,115 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm 4AHello! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="#">######
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### 📫 Like to meet me?
+<p>
+  <em>
+    正在学习技术、AI 工具、GitHub、Python 和个人网站搭建。
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </em>
+</p>
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const anmol = {
-  name: "Anmol Pratap Singh",
-  pronouns: ["he", "him"],
-  languages: ["TypeScript", "JavaScript", "Python", "Dart"],
-  askMeAbout: [
-    "web development",
-    "mobile app development",
-    "cloud architecture",
-    "generative AI",
-    "agentic systems",
-    "SaaS products",
-    "system design"
-  ],
-
-  technologies: {
-    frontend: {
-      frameworks: ["React", "Next.js"],
-      styling: ["Tailwind CSS", "Sass", "Bootstrap"],
-      uiLibraries: [
-        "Material UI",
-        "Ant Design",
-        "Chakra UI",
-        "shadcn/ui"
-      ]
-    },
-
-    backend: {
-      node: ["Node.js", "Express", "NestJS"],
-      python: ["Flask"]
-    },
-
-    mobile: {
-      crossPlatform: ["Flutter"]
-    },
-
-    devOps: {
-      tools: ["Docker", "GitHub Actions", "Nginx"],
-      practices: ["CI/CD", "Infrastructure as Code"]
-    },
-
-    cloud: {
-      aws: [
-        "EC2",
-        "S3",
-        "RDS",
-        "Lambda",
-        "Fargate",
-        "CloudWatch"
-      ],
-      gcp: [
-        "Compute Engine",
-        "Cloud Run",
-        "Cloud Functions",
-        "Cloud Storage",
-        "Firestore",
-        "BigQuery"
-      ]
-    },
-
-    databases: {
-      relational: ["PostgreSQL"],
-      nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
-      inMemory: ["Redis"]
-    },
-
-    realtimeAndAPIs: [
-      "REST APIs",
-      "WebSockets",
-      "Socket.IO"
-    ],
-
-    ai: {
-      generativeAI: [
-        "LLM integration",
-        "Prompt engineering",
-        "Vector databases",
-        "AI agents",
-        "Workflow automation"
-      ],
-      architectures: [
-        "agentic architecture",
-        "tool-augmented agents",
-        "multi-agent systems"
-      ],
-      models: ["OpenAI", "Gemini", "Llama"]
-    }
-  },
-
-  architecture: {
-    frontend: ["SPA", "SSR"],
-    backend: ["monolith", "microservices", "serverless"],
-    cloudPatterns: [
-      "event-driven",
-      "agentic systems",
-      "scalable SaaS"
-    ],
-    data: ["relational", "nosql", "in-memory"]
-  },
-currentFocus:"Building scalable AI-first SaaS products with agentic architectures",
-funFact: "Most bugs disappear after a coffee and a clean commit history"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+[![GitHub followers](https://img.shields.io/github/followers/Hello4A?label=Follow&style=social)](https://github.com/Hello4A)
+[![Website](https://img.shields.io/badge/Website-4A%20Blog-46a2f1?style=flat-square&logo=Google-Chrome&logoColor=white)](https://Hello4A.github.io)
+[![Email](https://img.shields.io/badge/Email-qxchello4a%40outlook.com-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:qxchello4a@outlook.com)
 
 ---
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C358%20hrs%2025%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-904-blue?style=flat)
+### 📫 联系我
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.86%20million%20lines%20of%20code-blue?style=flat)
+欢迎访问我的个人博客，或者通过 GitHub 和邮箱联系我。
 
-**🐱 My GitHub Data** 
+- Blog: https://Hello4A.github.io
+- GitHub: https://github.com/Hello4A
+- Email: qxchello4a@outlook.com
 
-> 📦 391.0 kB Used in GitHub's Storage 
- > 
-> 🏆 723 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 33 Private Repositories 
- > 
-**I'm an Early 🐤** 
+---
 
-```text
-🌞 Morning                1997 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-🌆 Daytime                4140 commits        █████████░░░░░░░░░░░░░░░░   34.38 % 
-🌃 Evening                4080 commits        ████████░░░░░░░░░░░░░░░░░   33.88 % 
-🌙 Night                  1824 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-```
-📅 **I'm Most Productive on Sunday** 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 关于我
 
-```text
-Monday                   1412 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Tuesday                  1750 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Wednesday                1757 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Thursday                 1384 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Friday                   1270 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Saturday                 1731 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Sunday                   2737 commits        ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-```
+我是 4A，目前主要关注个人博客、GitHub、Python、大模型 API、Windows / iOS 工具、云服务器和 Obsidian 笔记整理。
+
+我希望把平时遇到的问题、解决方法和学习笔记系统地整理下来，慢慢形成自己的长期知识库。
+
+---
+
+### 🧩 一段 Python 经典算法
+
+下面是一段经典的二分查找算法。它适用于已经排好序的列表，时间复杂度为 `O(log n)`。
+
+```python
+def binary_search(nums, target):
+    """在升序列表 nums 中查找 target，找到返回索引，找不到返回 -1。"""
+    left = 0
+    right = len(nums) - 1
+
+    while left <= right:
+        mid = (left + right) // 2
+
+        if nums[mid] == target:
+            return mid
+        elif nums[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+
+    return -1
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-TypeScript               2 hrs 58 mins       ███████████████████████░░   91.88 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-.env file                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-WebStorm                 2 hrs 14 mins       █████████████████░░░░░░░░   68.88 % 
-Claude Code              1 hr                ████████░░░░░░░░░░░░░░░░░   31.12 % 
-
-💻 Operating System: 
-Mac                      3 hrs 14 mins       █████████████████████████   100.00 % 
+numbers = [1, 3, 5, 7, 9, 11, 13]
+result = binary_search(numbers, 7)
+print(result)  # 输出：3
 ```
 
-**I Mostly Code in JavaScript** 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<em>
+  <b>我正在把学习、技术和生活中的经验慢慢整理成自己的知识库。</b>
+</em>
 
-```text
-JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   35.87 % 
-TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-```
+---
 
+### 🚀 最近在做
 
+- 搭建和维护个人博客：4A Blog
+- 学习 Markdown、GitHub Pages 和 Chirpy
+- 学习 Python 与大模型 API 开发
+- 整理 Obsidian 学习笔记
+- 折腾 Windows、iOS、云服务器和效率工具
 
+---
 
- Last Updated on 09/06/2026 01:27:39 UTC
-<!--END_SECTION:waka-->
+### 🧠 关注方向
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+![AI](https://img.shields.io/badge/AI-111827?style=flat-square&logo=openai&logoColor=white)
 
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+---
+
+### 📚 我的博客
+
+我的个人博客：
+
+https://Hello4A.github.io
+
+这里主要记录：
+
+- 技术学习笔记
+- 软件使用教程
+- GitHub / 开源项目折腾
+- AI 工具和大模型 API 学习
+- Windows、iOS、服务器相关经验
+- 个人项目记录
+- 生活经验与思考
+
+---
+
+### 📊 GitHub 状态
+
+![Hello4A's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hello4A&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hello4A&layout=compact)
