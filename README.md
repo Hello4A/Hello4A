@@ -71,7 +71,7 @@ print(result)  # 输出：3
 ### 🚀 最近在做
 
 - 搭建和维护个人博客：4A Blog
-- 学习 Markdown、GitHub Pages 和 Chirpy
+- 学习 Markdown、GitHub Pages
 - 学习 Python 与大模型 API 开发
 - 整理 Obsidian 学习笔记
 - 折腾 Windows、iOS、云服务器和效率工具
