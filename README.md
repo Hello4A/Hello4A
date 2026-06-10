@@ -93,6 +93,73 @@ print(result)  # 输出：3
 ### ⏱️ WakaTime 编程统计
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.05%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 74 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+🌆 Daytime                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+🌃 Evening                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+🌙 Night                  58 commits          ████████████████████░░░░░   80.56 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Wednesday                70 commits          ████████████████████████░   97.22 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Objective-C** 
+
+```text
+Objective-C              3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Shell                    1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Logos                    1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+```
+
+
+
+
+ Last Updated on 10/06/2026 05:05:19 UTC
 <!--END_SECTION:waka-->
 
 ---
