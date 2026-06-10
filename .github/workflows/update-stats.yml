@@ -1,10 +1,8 @@
 name: Waka Readme
 
-于:
+on:
   workflow_dispatch:
   schedule:
-    # Runs at 00:00 UTC every day
-    # 北京时间是每天 08:00
     - cron: "0 0 * * *"
 
 jobs:
