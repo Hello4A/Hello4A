@@ -90,6 +90,13 @@ print(result)  # 输出：3
 
 ---
 
+### ⏱️ WakaTime 编程统计
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 📚 我的博客
 
 我的个人博客：
